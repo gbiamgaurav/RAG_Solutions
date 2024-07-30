@@ -35,3 +35,5 @@ google-generativeai
 langchain-google-genai
 faiss-cpu
 PyPDf2
+ctransformers
+chainlit

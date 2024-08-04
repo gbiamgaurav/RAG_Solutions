@@ -37,3 +37,6 @@ faiss-cpu
 PyPDf2
 ctransformers
 chainlit
+openai
+langchain_nvidia_ai_endpoints
+faiss-cpu
